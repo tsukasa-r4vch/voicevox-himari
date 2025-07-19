@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: voicevox-himari
+    env: docker
+    plan: free
+    autoDeploy: false
+    region: singapore
